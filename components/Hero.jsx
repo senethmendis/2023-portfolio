@@ -14,7 +14,7 @@ export const Hero = () => {
         <div className="w-full h-full mg:flex  py-20 gap-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mx-auto items-center justify-center text-white">
         <div className="text-center px-2 md:text-left">
           <div className="py-3 ">
-            <h1 className="text-3xl">I&apos;am</h1>
+            <h1 className="text-3xl">I am</h1>
             <h1 className="text-7xl font-bold">
               Seneth <span className="text-purple-500">.</span>{" "}
             </h1>
@@ -52,11 +52,11 @@ export const Hero = () => {
           <p className="text-purple-500">Introduction</p>
 
           <h1 className="md:text-7xl text-[3.6rem] font-bold py-0 sm:py-2">
-            Fornt-End Developer,
+            Front-End Developer,
           </h1>
           <h1 className="py-2 sm:py-3 text-xl">UX/UI Designer</h1>
           <p>
-            To Securea Challenging Positive in a reputable organization to
+            To Secure a Challenging Positive in a reputable organization to
             expand my learning’s, knowledgeand and skills. Secure a responsible
             career opportunity to fully utilize my training and skills, while
             making a significant contribution to the success of the company.
