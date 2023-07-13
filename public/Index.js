@@ -50,15 +50,16 @@ export const NavbarItems = [
     link:"#Work"
   },
   {
-    id: 4,
-    name: "contact",
-    link:"#Contact"
-  },
-  {
     id: 5,
     name: "tech",
     link:"#Tech"
   },
+  {
+    id: 4,
+    name: "contact",
+    link:"#Contact"
+  }
+  
 ];
 
 export const SocialIcon = [
