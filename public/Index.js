@@ -45,11 +45,6 @@ export const NavbarItems = [
     link:"#Home"
   },
   {
-    id: 2,
-    name: "blog",
-    link:"#Blog"
-  },
-  {
     id: 3,
     name: "work",
     link:"#Work"
