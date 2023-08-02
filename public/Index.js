@@ -111,7 +111,7 @@ export const ExpertList = [
 export const ProjectList = [
   {
     id: 1,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "SenethMendis-Portfolio",
     projectIcon: Dp1,
     subText: "Created in 2023 June",
@@ -119,7 +119,7 @@ export const ProjectList = [
   },
   {
     id: 2,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "Movie-Lab-website",
     projectIcon: Dp2,
     subText: "Created in 2023 June",
@@ -127,7 +127,7 @@ export const ProjectList = [
   },
   {
     id: 3,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "nextjs-portfolio",
     projectIcon: Dp3,
     subText: "Created in 2023 May",
@@ -135,7 +135,7 @@ export const ProjectList = [
   },
   {
     id: 4,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "saloon-project",
     projectIcon: Dp4,
     subText: "Created in 2022 Dec",
@@ -143,7 +143,7 @@ export const ProjectList = [
   },
   {
     id: 5,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "DrumKit",
     projectIcon: Dp5,
     subText: "Created in 2022 Dec",
@@ -151,7 +151,7 @@ export const ProjectList = [
   },
   {
     id: 6,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "Portfolio-v1",
     projectIcon: Dp5,
     subText: "Created in 2023 April",
@@ -159,7 +159,7 @@ export const ProjectList = [
   },
   {
     id: 7,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "Real-time-chat-app",
     projectIcon: Dp5,
     subText: "Created in 2022 Dec",
@@ -167,7 +167,7 @@ export const ProjectList = [
   },
   {
     id: 8,
-    creator: "Seneth Menidis",
+    creator: "Seneth Mendis",
     name: "gold-fish",
     projectIcon: Dp5,
     subText: "Created in 2023 April",
