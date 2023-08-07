@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![HooBank](https://i.pinimg.com/originals/6c/81/6e/6c816e7bcbbfbfd503d98f510d48ce9c.png)
+![SenethMendis-Portfolio](https://i.pinimg.com/originals/6c/81/6e/6c816e7bcbbfbfd503d98f510d48ce9c.png)
 
 ## Getting Started
 
