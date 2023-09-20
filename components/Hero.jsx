@@ -52,7 +52,7 @@ export const Hero = () => {
           <p className="text-purple-500">Introduction</p>
 
           <h1 className="md:text-7xl text-[3.6rem] font-bold py-0 sm:py-2">
-            Front-End Developer,
+            Software Engineer,
           </h1>
           <h1 className="py-2 sm:py-3 text-xl">UX/UI Designer</h1>
           <p>
